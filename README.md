@@ -17,4 +17,17 @@ The primary source of Data used here is StudentPerformanceFactors.csv and this i
       
 - SQL - Structured Query Language for Quring of Data
 - Github for Portfolio Building 
-- PowerBi
+
+  ### Data Cleaning and Preparations
+  In the initial phase of the Data cleaning and preparations, we perform the following action;
+  1. Data loading and Inspection
+  2. Handling missing variables
+  3. Data cleaning and formatting
+
+  ### Exploratory Data Analysis
+To perform exploratory data analysis (EDA) on the dataset, I will first examine;
+- the data structure,
+- check for missing values,
+- and visualize key variables to understand their distributions and relationships. This will help identify patterns, trends, and potential issues in the data. Let's proceed with the EDA steps.
+  
+   
