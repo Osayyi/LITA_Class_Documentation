@@ -25,9 +25,15 @@ The primary source of Data used here is StudentPerformanceFactors.csv and this i
   3. Data cleaning and formatting
 
   ### Exploratory Data Analysis
-To perform exploratory data analysis (EDA) on the dataset, I will first examine;
-- the data structure,
+EDA involves exploring of data to answer questions about data. To perform exploratory data analysis (EDA) on the dataset, I will;
+- examine the data structure,
 - check for missing values,
 - and visualize key variables to understand their distributions and relationships. This will help identify patterns, trends, and potential issues in the data. Let's proceed with the EDA steps.
   
-   
+### Data Analysis   
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
