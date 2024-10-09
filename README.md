@@ -31,9 +31,14 @@ The primary source of Data used here is StudentPerformanceFactors.csv and this i
    2. Analysis
    3. For Data visualization
       
-- SQL - Structured Query Language for Quring of Data
-- Github for Portfolio Building
-- PowerBi for Data Visualization
+- SQL - Structured Query Language
+   1.for Quring of Data
+
+- Github
+   1.for Portfolio Building
+  
+- PowerBi [Download Here](https://www.PowerBi.com)
+   1. for Data Visualization
 
   ### Data Cleaning and Preparations
   ---
