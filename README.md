@@ -69,18 +69,21 @@ The primary source of Data used here is StudentPerformanceFactors.csv and this i
 
   ### Data Cleaning and Preparations
   ---
-  Key Steps in the Project:
-  1. Data loading and Inspection
-  2. Handling missing variables in columns like "Teacher_Quality," "Parental_Education_Level," and "Distance_from_Home."
-  3. Data cleaning and formatting
-  4. Data Analysis:
+  *Key Steps in the Project*:
+ 1.  Data loading and Inspection
+
+ 2.  Handling missing variables in columns like "Teacher_Quality," "Parental_Education_Level," and "Distance_from_Home."
+
+ 3.  Data cleaning and formatting
+
+ 4.  Data Analysis:
      - Analyzing the impact of family background (income, parental education) on performance.
      - Investigating relationships between various factors like "Hours_Studied" and "Exam Scores."
  5. Data Visualization:
  - Creating bar charts, histograms, or scatter plots to illustrate key relationships.
    *Example visualizations*:
  - Bar chart showing the average exam score by hours studied.
-- A comparison of exam scores based on teacher quality or parental involvement.
+ - A comparison of exam scores based on teacher quality or parental involvement.
 
   ### Exploratory Data Analysis
   ---
