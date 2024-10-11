@@ -4,6 +4,8 @@ This is where I documented my first project while learning Data Analysis with Th
 ### Project Title: Student Performance Factors
 [Project Overview](#project-overview)
 
+[Dataset](#dataset)
+
 [Data Sources](#data-sources)
 
 [Tools Used](#tools-used)
@@ -16,10 +18,35 @@ This is where I documented my first project while learning Data Analysis with Th
 
 [Data Visualization](#data-visualization)
 
-### Project Overview
+### Project Overview:
 ---
-This Data Analysis project is focusing on various factors that may influence student academic performance, specifically the "Exam_Score." Key variables include hours studied, attendance, parental involvement, and access to resources, among others. This overview will help in understanding the relationships between these factors and their impact on student performance.
+*Objective*:
+The goal of this project is to analyze various factors influencing student performance (measured by exam scores). By cleaning, transforming, and visualizing the data, we aim to uncover patterns and insights into the key drivers of student success.
 
+### Dataset:
+The dataset includes the following features related to student performance:
+
+ - *Hours_Studied*: Time dedicated to studying.
+ - *Attendance*: Percentage of classes attended.
+ - *Parental_Involvement*: Level of parental engagement in education.
+ - *Access_to_Resources*: Availability of educational resources.
+ - *Extracurricular_Activities*: Involvement in activities beyond academics.
+ - *Sleep_Hours*: Number of hours of sleep.
+ - *Previous_Scores*: Past academic performance.
+ - *Motivation_Level*: Level of motivation (self-reported or observed).
+ - *Internet_Access*: Availability of internet at home.
+ - *Tutoring_Sessions*: Number of tutoring sessions attended.
+ - *Family_Income*: Socio-economic background.
+ - *Teacher_Quality*: Perceived quality of teachers.
+- *School_Type*: Type of school (public/private).
+ - *Peer_Influence*: Influence of peers on academic behavior.
+ - *Physical_Activity*: Hours spent in physical activity per week.
+ - *Learning_Disabilities*: Presence of any learning disabilities.
+ - *Parental_Education_Level*: Highest education level of parents.
+ - *Distance_from_Home*: Distance between home and school.
+ - *Gender*: Student's gender.
+ - *Exam_Score*: Final exam score.
+ 
 ### Data Sources
 ---
 The primary source of Data used here is StudentPerformanceFactors.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site.
@@ -32,20 +59,28 @@ The primary source of Data used here is StudentPerformanceFactors.csv and this i
    3. For Data visualization
       
 - SQL - Structured Query Language
-   1.for Quring of Data
+   1. for Quring of Data
 
 - Github
-   1.for Portfolio Building
+    1. for Portfolio Building
   
 - PowerBi [Download Here](https://www.PowerBi.com)
-   1. for Data Visualization
+    1. for Data Visualization
 
   ### Data Cleaning and Preparations
   ---
-  In the initial phase of the Data cleaning and preparations, we perform the following action;
+  Key Steps in the Project:
   1. Data loading and Inspection
-  2. Handling missing variables
+  2. Handling missing variables in columns like "Teacher_Quality," "Parental_Education_Level," and "Distance_from_Home."
   3. Data cleaning and formatting
+  4. Data Analysis:
+     - Analyzing the impact of family background (income, parental education) on performance.
+     - Investigating relationships between various factors like "Hours_Studied" and "Exam Scores."
+ 5. Data Visualization:
+ - Creating bar charts, histograms, or scatter plots to illustrate key relationships.
+   *Example visualizations*:
+ - Bar chart showing the average exam score by hours studied.
+- A comparison of exam scores based on teacher quality or parental involvement.
 
   ### Exploratory Data Analysis
   ---
