@@ -18,6 +18,15 @@ This is where I documented my first project while learning Data Analysis with Th
 
 [Data Visualization](#data-visualization)
 
+1. Bar Chart (Average Exam Score by Hours Studied):
+This visualization can show how studying more (or less) impacts the average exam score.
+
+2. Scatter Plot (Sleep Hours vs. Exam Score):
+This will help illustrate if there's a relationship between sleep and performance.
+
+3. Pivot Table (Exam Score by School Type and Teacher Quality):
+A pivot table can summarize how different school types and teacher quality influence student performance.
+
 ### Project Overview:
 ---
 *Objective*:
@@ -101,6 +110,15 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
+
+1. Bar Chart (Average Exam Score by Hours Studied):
+This visualization can show how studying more (or less) impacts the average exam score.
+
+2. Scatter Plot (Sleep Hours vs. Exam Score):
+This will help illustrate if there's a relationship between sleep and performance.
+
+3. Pivot Table (Exam Score by School Type and Teacher Quality):
+A pivot table can summarize how different school types and teacher quality influence student performance.
 
 😄
 
