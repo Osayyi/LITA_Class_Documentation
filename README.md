@@ -126,6 +126,6 @@ A pivot table can summarize how different school types and teacher quality influ
 
 🥇
 
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
+|Gender|Parental Involvement|Access to Resources|Extracuricular Activities|Hours Studied|Exam Score|
+|------|--------------------|-------------------|-------------------------|-------------|----------|
+|Male|Low|High|No|23|67|
