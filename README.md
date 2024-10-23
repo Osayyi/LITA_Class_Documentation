@@ -112,6 +112,16 @@ This will help illustrate if there's a relationship between sleep and performanc
 3. Pivot Table (Exam Score by School Type and Teacher Quality):
 A pivot table can summarize how different school types and teacher quality influence student performance.
 
+![Screenshot (6)](https://github.com/user-attachments/assets/9ff269cc-37c6-47c5-9352-8ff109b4fde2)
+
+![Screenshot (5)](https://github.com/user-attachments/assets/1bd70fc1-5b9b-474a-bd7f-09846ca9c135)
+
+![__results___11_0](https://github.com/user-attachments/assets/9a546dce-f8be-4bb5-bfe6-758cd08cc2e5)
+
+![__results___11_1](https://github.com/user-attachments/assets/ff98d4d7-9993-4d2c-b6a1-d39c0e8e3872)
+
+![__results___11_2](https://github.com/user-attachments/assets/d68e30e4-de49-460f-a273-7a636ab42b30)
+
 😄
 
 🥇
